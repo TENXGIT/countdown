@@ -1,0 +1,12 @@
+#main{
+    position: relative;
+    left:600px;
+    top:100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    color:white;
+   
+}
+*{
+    background-color: rgb(41, 131, 143);
+}
